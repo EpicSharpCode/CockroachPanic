@@ -7,4 +7,4 @@ The game was made as a demo
 
 <b>Main scene =></b> Assets/CockroachPanic!/Scenes/Main.unity
 
-<img src="https://github.com/EpicSharpCode/CockroachPanic/blob/master/Media/CockroachPanic Screenshots Split alpha.png" width="800" height="520">
+<img src="https://github.com/EpicSharpCode/CockroachPanic/blob/master/Media/CockroachPanic Screenshots Split alpha.png">
